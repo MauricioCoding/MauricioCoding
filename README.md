@@ -57,12 +57,25 @@
 
 ## 💼 Professional Experience
 
-- 🏢 **PriceSmart** — Full Stack Developer, B2B Team
-  - Developing enterprise-level sales software used across multiple countries
-  - Building and maintaining finance logic systems
-  - Working with React, TypeScript, Node.js and Java in production environments
-  - Implementing DevOps practices with Docker and Kubernetes
-  - Applying GitFlow, Agile/Scrum and testing best practices daily
+### 🏢 PriceSmart — Full Stack Developer, B2B Team *(1 year)*
+- Developing enterprise-level sales software used across multiple countries
+- Building and maintaining finance logic systems
+- Working with React, TypeScript, Node.js and Java in production
+- Implementing DevOps practices with Docker and Kubernetes
+- Applying GitFlow, Agile/Scrum and testing best practices daily
+
+### 🗺️ Cecropia Solutions — Full Stack Developer *(3 years)*
+- Developed mapping and integration systems to onboard customers
+  into B2B platforms
+- Built scalable backend services using **TypeScript & Express**
+- Focused on system integration, data mapping and workflow automation
+
+### 📰 CRhoy — Full Stack Developer *(2 years)*
+- Built software that surfaces the most important national news
+  automatically, eliminating manual searching for editorial teams
+- **Frontend:** React + TypeScript + Tailwind CSS
+- **Backend:** Java Spring Boot — connected to news databases
+  and tracked most-viewed content across the platform
 
 ---
 
