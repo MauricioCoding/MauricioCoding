@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-- 💼 Professional developer at **PriceSmart** working on the B2B team, developing professional sales software including finance logic systems
+- 💼 Full Stack Developer with **6 years of professional experience** across retail, mapping/integration and media industries
 - 🤖 Very passionate about **AI development** and integration — learning with AI is much faster now and learning is what I love
 - 🌱 Currently pursuing **Azure Cloud** certifications to become a complete Full Stack + DevOps engineer
-- 🎯 Goal: Joining New Zealand's tech scene — I love NZ's breathtaking landscapes (just like Costa Rica! 🏔️), and I know the technology industry is stronger there. I really want to take part in helping make the world a better place 🌍
+- 🎯 Goal: Joining New Zealand's tech scene — I love NZ's breathtaking landscapes (just like Costa Rica! 🏔️), and I know the technology industry is much stronger there. I really want to take part in helping make the world a better place 🌍
 
-> 💡 *I love a good challenge and doing things the right way — I always research the best methodologies, implementation patterns, and workflows before diving in. Strong fundamentals mean learning is never a problem.*
+> 💡 *I love a good challenge and doing things the right way — I always research the best methodologies, implementation patterns, and workflows before diving in. Strong fundamentals mean learning is never a problem when doing strong and scalable software.*
 
 ---
 
@@ -64,18 +64,15 @@
 - Implementing DevOps practices with Docker and Kubernetes
 - Applying GitFlow, Agile/Scrum and testing best practices daily
 
-### 🗺️ Cecropia Solutions — Full Stack Developer *(3 years)*
-- Developed mapping and integration systems to onboard customers
-  into B2B platforms
+### 🗺️ Cecropia Solutions — Full Stack Developer, B2B Team *(3 years)*
+- Developed mapping and integration systems to onboard customers into B2B platforms
 - Built scalable backend services using **TypeScript & Express**
 - Focused on system integration, data mapping and workflow automation
 
 ### 📰 CRhoy — Full Stack Developer *(2 years)*
-- Built software that surfaces the most important national news
-  automatically, eliminating manual searching for editorial teams
+- Built software that surfaces the most important national news automatically, eliminating manual searching for editorial teams
 - **Frontend:** React + TypeScript + Tailwind CSS
-- **Backend:** Java Spring Boot — connected to news databases
-  and tracked most-viewed content across the platform
+- **Backend:** Java Spring Boot — connected to news databases and tracked most-viewed content across the platform
 
 ---
 
